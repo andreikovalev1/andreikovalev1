@@ -5,6 +5,7 @@
 **Телефон:** +375292982425  
 **Ссылка на Codewars:** [https://www.codewars.com/users/kovalev_andrei](https://www.codewars.com/users/kovalev_andrei)  
 **Желаемая позиция:** frontend-developer  
+**Резюме:** [Открыть резюме 📄]()
 
 ---
 
