@@ -1,4 +1,4 @@
-## 🧭 Contacts:
+## 🧭 Контактная информация:
 
 **Имя:** Андрей Ковалев  
 **Почта:** andreykovalev772@gmail.com  
@@ -12,7 +12,7 @@
 
 **Hard skills**:  
 - языки программирования: HTML, CSS, JavaScript (ES6+), React (в процессе изучения), SQL, C#  
-- инструменты: Git, GitHub, Figma, VS Code, Postman, Chrome DevTools, Netlify  
+- инструменты: Git, GitHub, Figma, VS Code, Node.js, Postman, Chrome DevTools, Netlify  
 
 **Soft skills**: коммуникабельность, работа в команде, управление временем  
 
